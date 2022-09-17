@@ -4,7 +4,7 @@
     - 👋 Hola soy @rcomunica 
     - 👀 Trabajo mayormente en Front-End en **_PHP HTML y JS_**
     - 🌱 Al momento aprendiendo sobre MySQL
-    - 💞️ Interesado de cualquier cosa y emprendimiento
+    - 💞️ Principalmente colaborando en @IVAO-Colombia
     - 📫 Contactame en discord como rcomunica#3285
 
 <!---

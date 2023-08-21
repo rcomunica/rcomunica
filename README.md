@@ -14,6 +14,7 @@ colaborado para redes virtuales y emprendimientos 100% colombianos
  - 💞️ Me puedes llamar comunica o capisito
  - 📫 Contactame en discord como rcomunica#3285
  - 🚨 Tengo 16 años!
+ - ✈ IVAO Colombia software development
 
 <!---
 rcomunica/rcomunica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

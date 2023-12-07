@@ -65,5 +65,4 @@ You can click the Preview link to take a look at your changes.
   </kbd>
 </p>
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=rcomunica&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=rcomunica&theme=tokyonight&width=500&height=500&exclude_lang=Shell,CSS)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=rcomunica&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card) [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=rcomunica&theme=tokyonight&width=500&height=500&exclude_lang=Shell,CSS)](https://github.com/KasRoudra/github-stats-card)

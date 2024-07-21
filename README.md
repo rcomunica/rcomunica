@@ -1,10 +1,9 @@
 # ¡Julian Ramirez! (rcomunica)
 
 1. Objetivo Profesional
-- Cuento con 1 año de experencia como Desarrollador web freelance Front-end proximos a ser FullStack
-con distintos lenguajes, algunos a resaltar son PHP ~ Java ~ Python ~
-HTML ~ CSS ~ SQL y frameworks como Laravel o Bootstrap. He
-colaborado para redes virtuales y emprendimientos 100% colombianos 
+- Cuento con 3 años de experencia como Desarrollador web freelance en Back-end y Front-end
+con distintos lenguajes, algunos a resaltar son PHP ~ Java ~ Python ~ ~ SQL y frameworks como Laravel.
+He colaborado para redes virtuales y emprendimientos 100% colombianos 
 
 2. ¿Quien es Julian Ramirez?
  - 👀 Soy un desarrolador Back-end!
@@ -13,7 +12,7 @@ colaborado para redes virtuales y emprendimientos 100% colombianos
  - 💚 Platzi Student!
  - 💞️ Me puedes llamar comunica o capisito
  - 📫 Contactame en discord como rcomunica#3285
- - 🚨 Tengo 16 años!
+ - 🚨 Tengo 17 años!
  - ✈ IVAO Colombia software development
 
 <!---

@@ -5,7 +5,7 @@
 
 ## Sobre mí
 
-- 🎓 **Estudiante de 10° grado** en el Colegio OEA.
+- 🎓 **Estudiante de 10° grado**
 - 🖥️ **Desarrollador Back-end** con 2 años de experiencia en lenguajes como PHP, Java y Python.
 - 🌐 **Desarrollador Front-end** con 1 año de experiencia trabajando con JavaScript.
 - 👨‍💻 **Contralor estudiantil** en la jornada tarde de mi colegio.

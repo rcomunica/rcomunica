@@ -37,6 +37,14 @@ Empresa que cofundé, donde desarrollamos soluciones personalizadas para micro y
 
 ### [Aplicación estudiantil](https://github.com/rcomunica/app-estudiantil)
 Es un sistema el cual los estudiantes van a poder subir algunos reclamos sobre el programa de alimentacion escolar o simplemente ver los proximos eventos que se llevarán en la institución
+
+### [AeroFarallones](https://aerofarallones.com)
+AeroFarallones es una comunidad de aviación virtual, enfocada en brindar a sus miembros una experiencia completa y realista del mundo de la aviación, tanto para aficionados como para pilotos experimentados. Su objetivo es fomentar el aprendizaje y la práctica segura de la aviación a través de simuladores de vuelo.
+
+### [IVAO Colombia](https://co.ivao.aero)
+[IVAO Colombia](https://github.com/IVAO-Colombia) es la división colombiana de la International Virtual Aviation Organization (IVAO), una red global dedicada a la simulación de vuelo y control de tráfico aéreo en línea. Esta plataforma permite a entusiastas de la aviación, tanto pilotos virtuales como controladores aéreos, interactuar en un entorno realista y controlado mientras practican sus habilidades en la simulación de vuelos y operaciones aéreas.
+Algunos proyectos que se
+
 ## Contacto
 
 - **Correo:** julir2772@gmail.com

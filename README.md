@@ -5,10 +5,8 @@
 
 ## Sobre mí
 
-- 🎓 **Estudiante de 10° grado**
 - 🖥️ **Desarrollador Back-end** con 2 años de experiencia en lenguajes como PHP, Java y Python.
 - 🌐 **Desarrollador Front-end** con 1 año de experiencia trabajando con JavaScript.
-- 👨‍💻 **Contralor estudiantil** en la jornada tarde de mi colegio.
 - 🏢 Fundador y desarrollador en **CoMMArka Studios**.
 - ✈️ **Piloto virtual** y miembro del staff de IVAO Colombia.
 - 🔧 Actualmente trabajando en proyectos relacionados con la integración de hardware (ESP32, sensores) y software para el monitoreo del consumo de agua.

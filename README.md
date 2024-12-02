@@ -7,6 +7,7 @@
 
 - 🖥️ **Desarrollador Back-end** con 2 años de experiencia en lenguajes como PHP, Java y Python.
 - 🌐 **Desarrollador Front-end** con 1 año de experiencia trabajando con JavaScript.
+- 📱 **Desarrollador Mobile** con 6 meses de experencia trabajando con lenguajes multiplataforma Flutter
 - 🏢 Fundador y desarrollador en **CoMMArka Studios**.
 - ✈️ **Piloto virtual** y miembro del staff de IVAO Colombia.
 - 🔧 Actualmente trabajando en proyectos relacionados con la integración de hardware (ESP32, sensores) y software para el monitoreo del consumo de agua.

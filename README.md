@@ -22,7 +22,7 @@
 
 <p aling="center">
  
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=rcomunica&theme=dark&layout=compact&type=donut&include_username=false)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=rcomunica&theme=dark&layout=compact&type=donut&include_username=false&exclude_lang=Blade)](https://github.com/KasRoudra/github-stats-card)
 <img src="https://metrics.lecoq.io/rcomunica?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=rcomunica&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rcomunica&theme=dark&card_width=1000&card_height=170)](https://git.io/streak-stats)

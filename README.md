@@ -1,7 +1,7 @@
 # 👋 Hola, soy Julián Andrés Ramírez Guzmán
 
 <p align="center">
-  <strong>Full-Stack Developer · PCA Student · Founder @ Rezit</strong>
+  <strong>Full-Stack Developer · ✈️ PCA Student · Founder @ Rezit</strong>
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ Aplicación móvil desarrollada como proyecto académico para ayudar a estudiant
 
 Cuenta con funcionalidades relacionadas con análisis de datos académicos y un asistente basado en IA.
 
-**Tecnologías:** `Flutter` · `Dart` · `API REST` · `IA`
+**Tecnologías:** `Laravel` · `SQL` · `Tailwind` · `OpenIA API`
 
 💻 **[Repositorio](https://github.com/rcomunica/SmartGrade)**
 
@@ -152,12 +152,8 @@ Comunidad de aviación virtual enfocada en brindar una experiencia de simulació
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rcomunica&show_icons=true&theme=dark&hide_border=true&count_private=true">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=rcomunica&theme=dark&border_radius=15&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly">
-
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=rcomunica&theme=dark&layout=compact&type=donut&exclude_lang=blade,Shell,SCSS,HTML,CMake,Blade)](https://github.com/KasRoudra/github-stats-card)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rcomunica&theme=dark&border_radius=15&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&card_height=170)](https://git.io/streak-stats)
 </p>
 
 ---
